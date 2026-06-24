@@ -1,55 +1,45 @@
-# TCL Center 01 Website
+# TCL Center 01 GitHub Pages Website
 
-This is a fully static website ready for GitHub Pages.
+This is a complete static website for **TCL Center 01 — Gulshan Market Multan**.
 
-## Business details already added
+## Files included
 
-- Business name: TCL Center 01
-- Claim line: Pakistan’s First TCL Center
-- Address: TCL Center 01 Near Gourmet Bakery, Gulshan Market, Multan, 60000
-- Phone/WhatsApp: 0300 9630639 / +92 300 9630639
-- Hours: 11:00 AM – 9:00 PM
-- Products: TCL TVs, TCL ACs, deep freezers, refrigerators, ovens, coolers and small appliances
+- `index.html`
+- `styles.css`
+- `script.js`
+- `assets/images/` real shop and product photos
+- `assets/favicon.svg`
+- `robots.txt`
+- `sitemap.xml`
+- `.nojekyll`
 
-## How to upload on GitHub Pages
+## Upload to GitHub Pages
 
-1. Create a new GitHub repository. Example: `tcl-center-01`
-2. Upload all files from this folder into the repository root:
-   - `index.html`
-   - `styles.css`
-   - `script.js`
-   - `assets/`
-   - `README.md`
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, choose:
+1. Open your GitHub repository: `tcl-center-01`
+2. Delete the old files if needed.
+3. Upload all files from this folder directly to the repository root.
+4. Go to **Settings → Pages**.
+5. Use:
    - Source: `Deploy from a branch`
    - Branch: `main`
    - Folder: `/root`
-5. Click **Save**.
-6. Wait 1–5 minutes. GitHub will show the live website link.
+6. Save and wait 1–3 minutes.
 
-Your website will look like:
+Live URL:
 
-`https://YOUR-USERNAME.github.io/tcl-center-01/`
+`https://waleed-code360.github.io/tcl-center-01/`
 
-## Replace gallery placeholders
+## Google Business Profile
 
-The gallery currently uses designed placeholders. After taking real shop photos, create an `assets/images` folder and replace the placeholder blocks inside `index.html` with image tags.
+After the site is live, add this website link in Google Business Profile:
 
-Example:
+`https://waleed-code360.github.io/tcl-center-01/`
 
-```html
-<img src="assets/images/shop-front.jpg" alt="TCL Center 01 shop front in Gulshan Market Multan">
-```
+## Important update notes
 
-## SEO notes
+- Phone number is set as `0300 9630639` / `+92 300 9630639`.
+- WhatsApp link uses `923009630639`.
+- Google Maps directions button uses: `https://maps.app.goo.gl/4oquGSYo1QVqFU7v5`.
+- Business hours are set as daily `11:00 AM – 9:00 PM`.
 
-The site includes:
-
-- Meta title and description
-- Local business keywords
-- Open Graph preview
-- LocalBusiness/ElectronicsStore structured data
-- Google Maps embed
-- Call and WhatsApp links
-- Mobile responsive design
+If you add new oven/cooler/deep freezer photos later, place them inside `assets/images/` and update the relevant card image in `index.html`.
