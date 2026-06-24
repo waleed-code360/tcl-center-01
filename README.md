@@ -1,18 +1,15 @@
-# TCL Center 01 GitHub Pages Website
+# TCL Center 01 Website - Updated AC Images
 
-This fixed version is a single-file website. The photos are embedded inside `index.html`, so no separate image folder is required and images will not break if folders are missed during upload.
+GitHub Pages ready single-file website.
 
-## Upload steps
+## Upload instructions
+Upload these files directly to the repository root:
 
-1. Upload these files to the root of the GitHub repository:
-   - index.html
-   - robots.txt
-   - sitemap.xml
-   - favicon.svg
-   - .nojekyll
-   - README.md
-2. Commit changes.
-3. Wait 1-3 minutes.
-4. Open https://waleed-code360.github.io/tcl-center-01/
+- index.html
+- favicon.svg
+- robots.txt
+- sitemap.xml
+- .nojekyll
+- README.md
 
-Map uses the coordinates from the Google Maps link shared for TCL Center 01.
+Phone updated to 0300 7320440. Old product stock images removed.
