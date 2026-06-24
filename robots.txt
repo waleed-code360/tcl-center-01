@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://waleed-code360.github.io/tcl-center-01/sitemap.xml
