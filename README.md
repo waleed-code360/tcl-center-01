@@ -1,12 +1,34 @@
-# TCL Center 01 — Full Template Redesign
+# TCL Center 01 — Electro-style Website
 
-This package completely changes the website layout and visual template while preserving the existing shop details, item/category names, phone number, location, and current images.
+A complete GitHub Pages website redesigned in an electronics-store layout inspired by the referenced Electro Bootstrap demo, while keeping the TCL Center 01 business information, product names, shop photos, TCL AC posters, phone number and location.
 
 ## Upload to GitHub Pages
-1. Extract the ZIP.
-2. In your `tcl-center-01` repository, replace the old files with every file and folder from this package.
-3. Make sure `index.html` and the `assets` folder are both visible in the repository root.
-4. Commit the changes.
-5. Wait 1–3 minutes and hard-refresh the live site with `Ctrl + F5`.
 
-Do not upload only `index.html`; the `assets/images` folder is required for the pictures.
+Upload these items directly to the repository root:
+
+- `index.html`
+- `assets/`
+- `favicon.svg`
+- `robots.txt`
+- `sitemap.xml`
+- `.nojekyll`
+- `README.md`
+
+GitHub Pages setting:
+
+- Source: Deploy from a branch
+- Branch: `main`
+- Folder: `/ (root)`
+
+After committing, wait a few minutes and refresh with `Ctrl + F5`.
+
+## Included
+
+- Electro-style top bar, search bar, category menu and navigation
+- Automatic hero slider
+- Product category filtering and search
+- WhatsApp enquiry buttons
+- Left/right/up scroll reveal transitions
+- Fully responsive desktop, tablet and mobile layouts
+- TCL AC catalogue, showroom gallery and exact Google Maps embed
+- LocalBusiness schema and SEO metadata
